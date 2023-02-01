@@ -1,4 +1,4 @@
-package agorithmfortest.ch01String;
+package algorithmfortest.ch01String;
 
 import java.util.*;
 
