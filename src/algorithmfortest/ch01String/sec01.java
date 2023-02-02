@@ -21,7 +21,7 @@ class Main {
 		//대소문자를 구분하지 않기 때문에 전부 대문자로 변경
 		//문자열 대문자로 변경: toUpperCase()
 		str = str.toUpperCase();
-		//문자 대문자로 변경: Character.toUpperCase(문자변)
+		//문자 대문자로 변경: Character.toUpperCase(문자변수)
 		t = Character.toUpperCase(t);
 		
 		//대문자로 잘 변경되었는지 확인 
