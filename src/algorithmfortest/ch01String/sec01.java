@@ -2,19 +2,10 @@ package algorithmfortest.ch01String;
 
 import java.util.*;
 
-public class sec01 {
-
-	public static void main(String[] args) {
-		
-		
-	}
-
-}
-
-
 /**  문자 찾기  **/
 
-class Main {
+public class sec01 {
+	
 	public static int solution(String str, char t) {
 		int answer = 0;
 		
@@ -59,5 +50,5 @@ class Main {
 		System.out.println(solution(str, c));
 		
 	}
-	
+
 }
