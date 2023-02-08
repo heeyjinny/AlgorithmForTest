@@ -3,7 +3,7 @@ package algorithmfortest.ch03String;
 import java.util.*;
 
 /** 문장 속 가장 길이가 긴 단어 찾기 **/
-//indexOf(), supString()사용하기
+//indexOf(), substring()사용하기
 
 public class sec0301 {
 
